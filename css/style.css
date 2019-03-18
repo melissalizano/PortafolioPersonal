@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:500|Poppins');
+
+body,td,th {
+    font-family: 'Poppins', sans-serif;
+		
+}
+		p{
+			font-family: 'Source Sans Pro', sans-serif;
+			
+		}
+
+#sec-about{
+	margin-top: 50px;
+	background-color: #FFFFFF;
+	
+}
+
+#sec-hero{
+	background-image: url( "../img/IMG_0580.JPG");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	padding: 300px 0px;
+	color: #fff;
+}
+
+.btn-rectangulo{
+	background-color:transparent;
+	border:1px solid #fff;
+	color: #fff;
+	border-radius: 0;
+	padding: 10px 30px;
+	text-transform: lowercase;
+	font-weight:600;
+	
+}
+.btn-rectangulo:hover{
+	background-color: #FFFFFF;
+	color:#000;
+	
+}
+
+.more{
+	margin-left: 370px;
+	margin-top: 30px;
+}
+
+.contact{
+	margin-top: 30px;
+}
+
+#sec-about{
+	margin-bottom: 50px
+}
+
+#sec-about h3{
+	margin: 100px 0px 30px;
+	color: #00ccff;
+	font-size: 35px;
+}
+
+#sec-about h1{
+	color: #00ccff;
+}
+
+.retrato{
+	margin-left: 100px;
+	margin-top: 40px;
+}
+
+.titulo{
+	color: #00ccff;
+	font-size: 50px
+}
+
+.welcome{
+	font-weight: 500;
+	font-size: 60px;
+	color: #8C8C8C;
+}
+
+#sec-servicios{
+	background-color:#929292;
+	opacity: 60%;
+	color: #fff;
+	margin: 60px 0px;
+}
+
+.ser-2{
+	margin-left: 100px;
+}
+
+.ser-1{
+	margin-left: 100px
+}
+
+#sec-contact label{
+	color: #929292;
+}
+
+#sec-contact{
+	padding-top: 30px;
+	padding-bottom: 20px
+}
+
+#fotos{
+	border-bottom: 1px solid #7B7B7B;
+		padding-bottom: 30px;
+}
+
+.header-area.sticky {
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    z-index: 9999;
+}
+.header-area.sticky .navbar-light{
+    background-color: #884bdf;
+}
+
+
+footer{
+	margin-top: 10px;
+	background-color: #00ccff;
+	padding-bottom: 10px;
+	color: #fff;
+}
+
+footer i{
+	color: #fff;
+
+}
+
+footer i.inst{
+	color: #fff;
+	padding-right: 15px;
+
+}
